@@ -9,3 +9,7 @@ A topology includes:
 - [x] A wireless router with a MAC-whitelist
 - [x] FTP, email, dns, syslog server in a separate network
 - [x] Properly tested services, all hosts communicate.
+
+___
+
+![reference-topology](https://github.com/octavian-diaconescu/ccna1-topologies/blob/main/img.png)
