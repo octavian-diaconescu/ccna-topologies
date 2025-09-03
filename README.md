@@ -1,5 +1,5 @@
-# ccna1-topologies
-A few topologies configured within the CCNA1 curriculum.
+# ccna-topologies
+A few topologies configured within the CCNA curriculum.
 
 A topology includes: 
 - [x] 3 different networks
@@ -9,7 +9,10 @@ A topology includes:
 - [x] A wireless router with a MAC-whitelist
 - [x] FTP, email, dns, syslog server in a separate network
 - [x] Properly tested services, all hosts communicate.
-
+- [x] Dynamic routing configured with EIGRP, OSPF, RIPv2
+- [x] Redundancy assured by the existence of multiple switches (access, distribution, core) with trunk and access link configuration
 ___
 
-![reference-topology](https://github.com/octavian-diaconescu/ccna1-topologies/blob/main/img.png)
+![reference-topology](https://github.com/octavian-diaconescu/ccna1-topologies/blob/main/ccna1.png)
+![reference-topology](https://github.com/octavian-diaconescu/ccna1-topologies/blob/main/ccna2.png)
+
